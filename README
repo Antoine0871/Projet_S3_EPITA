@@ -1,0 +1,8 @@
+Pour commencer faites un make ici, à la racine du projet.
+Ensuite descendez dans "INTERFACE/" et lancez l'interface avec "./interface".
+Toutes les grilles de sudoku se trouvent dans "Black_and_white/Images" avec comme nom "sujetlionel{x}.jpeg".
+Les images traitées seront celles qui auront été display avec le file chooser dans l'interface. 
+Si vous voulez utiliser une image qui a été rotate, vous la trouverez dans "Black_and_white/Images/Rotate.bmp".
+Un réseau de neurones par défaut est dans "INTERFACE/" il n'est pas obligatoire d'en entrainer un.
+
+HANABI
